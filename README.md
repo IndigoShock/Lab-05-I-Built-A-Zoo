@@ -45,7 +45,6 @@ Please refer to the visual below.
 
 Visual
 
-
 Figure 1 - Entire Diagram
 ![Image](ZooApp/assets/Zoo1.JPG)
 
