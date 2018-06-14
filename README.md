@@ -44,10 +44,19 @@ Provide under each OOP definition a couple (you do not have to define all) of ex
 Please refer to the visual below.
 
 Visual
-![Image](assets\Zoo1.JPG)
-![Image](\assets\Zoo2.JPG)
-![Image](/assets/Zoo3.JPG)
-![Image](assets/Zoo4.JPG)
+
+
+Figure 1 - Entire Diagram
+![Image](ZooApp/assets/Zoo1.JPG)
+
+Figure 2 - Left side of Diagram
+![Image](ZooApp/assets/Zoo2.JPG)
+
+Figure 3 - Middle View of Diagram
+![Image](ZooApp/assets/Zoo3.JPG)
+
+Figure 4 - Right side of Diagram with Legend
+![Image](ZooApp/assets/Zoo4.JPG)
 
 4. API
 No API's were harmed in the making of this.
