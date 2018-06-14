@@ -44,9 +44,9 @@ Provide under each OOP definition a couple (you do not have to define all) of ex
 Please refer to the visual below.
 
 Visual
-![Image](assets/Zoo1.JPG)
-![Image](assets/Zoo2.JPG)
-![Image](assets/Zoo3.JPG)
+![Image](assets\Zoo1.JPG)
+![Image](\assets\Zoo2.JPG)
+![Image](/assets/Zoo3.JPG)
 ![Image](assets/Zoo4.JPG)
 
 4. API
