@@ -1,5 +1,4 @@
 ﻿using System;
-using Animals.Classes;
 
 namespace ZooApp
 {

@@ -4,17 +4,19 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Emu : Flightless
+    class NYCPidgeon : Flight
     {
+        public override string FeatherColor { get; set; } = "Grey, white and a smidge of green. For envy.";
+
         public override string Diet()
         {
-            string dd = "I imagine it is grass, berries and haaaaaay.";
+            string dd = "Let's be real. Probably bread crumbs. And trash.";
             return dd;
         }
 
         public override string Sound()
         {
-            string ss = "Wah, wah, wah";
+            string ss = "Coo, man. Coo...";
             return ss;
         }
     }

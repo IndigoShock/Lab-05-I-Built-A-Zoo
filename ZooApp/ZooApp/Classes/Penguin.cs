@@ -4,7 +4,11 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Penguin
+    public abstract class Penguin : Flightless
     {
+        public virtual bool NoChinStrap()
+        {
+            return false;
+        }
     }
 }
