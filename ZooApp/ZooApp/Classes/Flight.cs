@@ -4,7 +4,8 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Flight
+    public abstract class Flight : Birds
     {
+        public abstract string FeatherColor { get; set; }
     }
 }

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Marsupials
+    public abstract class Marsupials : Mammals
     {
+        public virtual bool Endangered { get; set; }
     }
 }

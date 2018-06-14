@@ -6,6 +6,14 @@ namespace ZooApp.Classes
 {
     public abstract class Animals
     {
+        public abstract string Sound();
+
+        public abstract string Diet();
+
+        public virtual bool Fur()
+        {
+            return true;
+        }
 
     }
 }

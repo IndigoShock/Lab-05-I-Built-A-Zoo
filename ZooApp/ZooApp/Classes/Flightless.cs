@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Flightless
+    public abstract class Flightless : Birds
     {
     }
 }
