@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Bonobos : Primates
+    public class Bonobos : Primates
     {
         public override bool WarmBlooded { get; set; } = true;
 

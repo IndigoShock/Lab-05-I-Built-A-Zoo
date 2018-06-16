@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class NYCPidgeon : Flight
+    public class NYCPidgeon : Flight
     {
         public override string FeatherColor { get; set; } = "Grey, white and a smidge of green. For envy.";
 

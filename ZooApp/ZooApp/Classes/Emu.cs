@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Emu : Flightless
+    public class Emu : Flightless
     {
         public override string Diet()
         {

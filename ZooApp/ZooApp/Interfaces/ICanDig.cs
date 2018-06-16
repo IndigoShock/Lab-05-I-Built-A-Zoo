@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Interfaces
 {
-    interface ICanDig
+    public interface ICanDig
     {
         bool CanDig { get; set; }
     }
