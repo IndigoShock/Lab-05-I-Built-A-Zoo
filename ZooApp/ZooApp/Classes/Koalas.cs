@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Koalas : Marsupials
+    public class Koalas : Marsupials
     {
         public override bool Endangered { get; set; } = true;
 

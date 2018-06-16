@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class BoaConstrictor : Swamp
+    public class BoaConstrictor : Swamp
     {
         public override bool HasLegs { get; set; } = false;
 

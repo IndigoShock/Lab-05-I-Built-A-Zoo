@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Interfaces
 {
-    interface ICanSwim
+    public interface ICanSwim
     {
           bool CanSwim { get; set; }
     }
