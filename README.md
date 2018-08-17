@@ -1,9 +1,8 @@
-1. Name 
-#Lab 05 I Built a Zoo!
+# Lab 05 I Built a Zoo!
 
-2. Questions to Answer
+Questions to Answer
 
-#Lab Part 1 of 2
+## Lab Part 1 of 2
 1. An introduction to the project:
 A one-Liner - This is a C# Console application acting as an organizer for a zoo, consisting of classes and interfaces.
 
@@ -26,7 +25,7 @@ Provide under each OOP definition a couple (you do not have to define all) of ex
 	
 	d. Encapsulation - This is the ability to cover or bundle up. Much like a blanket but with varying degrees of visibility. If it were public, the blanket is see through and wide, open to everyone. If private, the blanket is more clouded. If protected, the blanket is still clouded but with frills on the end for the children. 
 
-#Lab Part 2 of 2
+## Lab Part 2 of 2
 1. Define what an interface is in your own words.
 An interface tells you what to do. I think of it as a sticky note with important instructions on what the class should do.
 
@@ -44,7 +43,7 @@ Please refer to the visual below.
 Visual
 
 Figure 1 - Entire Diagram
-![Image](ZooApp/assets/Zoo1.JPG)
+![Image](../assets/Zoo1.JPG)
 
 Figure 2 - Left side of Diagram
 ![Image](ZooApp/assets/Zoo2.JPG)
