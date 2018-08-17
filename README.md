@@ -43,7 +43,7 @@ Please refer to the visual below.
 Visual
 
 Figure 1 - Entire Diagram
-![Image](../assets/Zoo1.JPG)
+![Image](ZooApp/assets/Zoo1.JPG)
 
 Figure 2 - Left side of Diagram
 ![Image](ZooApp/assets/Zoo2.JPG)
